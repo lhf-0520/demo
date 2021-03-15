@@ -226,7 +226,7 @@ $light_gray:#eee;
 
   .show-pwd {
     position: absolute;
-    right: 10px;
+    right: 12px;
     top: 7px;
     font-size: 16px;
     color: $dark_gray;
